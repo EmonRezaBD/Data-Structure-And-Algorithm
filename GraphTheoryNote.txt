@@ -8,4 +8,11 @@ case-3: If we dwar and edge from odd to even degree node, then no of odd degree 
 
 So, It is increasing or decreasing by 2. Thats why it is called handshaking lemma.
 
-Sum od total degree = 2*no of edge
+Sum odd total degree = 2*no of edge in a graph
+
+
+2. If graph is undiercted , then the adjacency matrix is symmetric.
+mat[i][j]=mat[j][i]
+
+Because we can come and go from both side. So, either it is weighted or unweighted , it will carry same value.
+
