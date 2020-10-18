@@ -1,0 +1,11 @@
+1. Handshaking Lemma:
+
+we use 2 hands for handshake
+so, 
+case-1: If we draw an edge from even degree node to even degree node then 2 odd degree nodes will insrease
+case-2: If we draw an edge from odd degree node to odd degree node than 2 odd degree nodes will decrease
+case-3: If we dwar and edge from odd to even degree node, then no of odd degree nodes will remain same
+
+So, It is increasing or decreasing by 2. Thats why it is called handshaking lemma.
+
+Sum od total degree = 2*no of edge
